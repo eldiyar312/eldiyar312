@@ -4,6 +4,6 @@
 
 - 💬 Ask me about JavaScript or Backend dev :)
 - 📫 How to reach me: eldiyar.san@gmail.com
-- ⚡ I'm T-shape developer, know about frontend, backend, mobile, devops, but main skill it's Back end development
+- ⚡ T-shape developer, know about frontend, backend, mobile, devops, but main skill it's Back-End development
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eldiyar312&theme=buefy) [![Github stats](https://github-readme-stats.vercel.app/api?username=eldiyar312&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
